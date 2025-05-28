@@ -1,5 +1,1 @@
-adminsql.ph
-Partiunuvem@2025
 
-
-SERVER NAME: dbsrvdeveastuslabph001
