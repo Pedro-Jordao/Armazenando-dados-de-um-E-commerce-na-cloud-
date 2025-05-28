@@ -85,6 +85,16 @@ A seguir, os passos executados no projeto **Armazenando dados de um E-Commerce n
 - Esse teste confirmou que com `pyodbc` a conexão acontecia como esperado
 
 ---
+### 🔹 Banco funcional
+![image](https://github.com/user-attachments/assets/6e0988a4-e806-4cae-9c15-c0b808e4deff)
+
+---
+
+### 🔹 Interface gráfica funcional
+![image](https://github.com/user-attachments/assets/f1915c53-ceb8-40a6-bed0-def0e49fb8d0)
+
+---
+
 
 ## 🧾 Notas Finais
 
