@@ -1,4 +1,4 @@
-![2criandostorageaccount](https://github.com/user-attachments/assets/beeca42a-e170-4249-a409-24f570a0616b)# Armazenando-dados-de-um-E-commerce-na-cloud-
+
 The following repository was created by me as part of a Bootcamp project for evaluation and approval purposes. Although the task involves basic steps and configurations, the implementation was carried out according to the requirements described in the Challenge Description.
 
 Este repositório foi criado por mim como parte de um projeto de Bootcamp para fins de avaliação e aprovação. Embora a tarefa envolva etapas e configurações básicas, a implementação foi realizada conforme os requisitos descritos na Descrição do Desafio.
